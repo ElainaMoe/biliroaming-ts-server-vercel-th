@@ -72,7 +72,7 @@ export const fs_uri: string = "https://bili33.top";
 //标签-副标题1
 export const fs_style: string = "荧妹单推人！";
 //标签-副标题2
-export const fs_label: string = "荧妹赛高！";
+export const fs_label: string = "泰区服务器容易被B站风控，如果用不了了就是被风控了，被风控目前无解，等我找找好用的东南亚服务器再说";
 //描述(WEB版API)
 export const fs_desc: string = "荧妹单推人就是我哒！";
 //番剧分数
